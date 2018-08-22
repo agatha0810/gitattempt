@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3a10c604-0de7-4301-933c-14348a7f139b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitattempt/pl/akademiakodu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitattempt/pl/akademiakodu/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/akademiakodu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/akademiakodu/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/pl/akademiakodu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -110,6 +109,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -146,7 +146,7 @@
     <entry file="file://$PROJECT_DIR$/src/pl/akademiakodu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="80" selection-start-line="7" selection-start-column="80" selection-end-line="7" selection-end-column="80" />
+          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
         </state>
       </provider>
     </entry>
